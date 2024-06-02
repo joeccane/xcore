@@ -1,0 +1,10 @@
+{
+    "recommendations": [
+        "rdsq.pip-requirements",
+        "deepsourcecorp.deepsource-vscode",
+        "codeium.codeium",
+        "ms-python.python",
+        "kevinrose.vsc-python-indent",
+        "njqdev.vscode-python-typehint"
+    ]
+}
